@@ -1,0 +1,6 @@
+hydrogram
+colorama
+psutil
+tgcrypto
+meval
+
